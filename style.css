@@ -1,8 +1,2 @@
-a { color:red } /* Globally */
+a { color:#58a6ff } /* Globally */
 
-/* Each state */
-
-a:visited { text-decoration: none; color:red; }
-a:hover { text-decoration: none; color:blue; }
-a:focus { text-decoration: none; color:yellow; }
-a:hover, a:active { text-decoration: none; color:black }
