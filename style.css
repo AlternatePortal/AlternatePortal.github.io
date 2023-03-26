@@ -1,6 +1,6 @@
-a { color:#88aaeb } /* Globally */
+a { color:#aee5eb } /* Globally */
 
-a:visited { text-decoration: none; color:#88aaeb; }
-a:hover { text-decoration: none; color:#88aaeb; }
-a:focus { text-decoration: none; color:#88aaeb; }
-a:hover, a:active { text-decoration: none; color:#88aaeb }
+a:visited { text-decoration: none; color:#aee5eb; }
+a:hover { text-decoration: none; color:#aee5eb; }
+a:focus { text-decoration: none; color:#aee5eb; }
+a:hover, a:active { text-decoration: none; color:#aee5eb }
