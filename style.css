@@ -6,8 +6,7 @@ a:focus { text-decoration: none; color:#aee5eb; }
 a:hover, a:active { text-decoration: none; color:#aee5eb }
 
 
-#my-text {
+my-text {
     float: right;
     margin-right: 100px;
-    aaaaaaaaa
 }
